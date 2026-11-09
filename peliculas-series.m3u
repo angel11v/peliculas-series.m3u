@@ -1,2 +1,34 @@
-# peliculas-series.m3u
-fun
+# #EXTM3U
+
+# Películas
+#EXTINF:-1 group-title="Películas | Acción",Películas de acción
+
+#EXTINF:-1 group-title="Películas | Romance",Películas románticas
+
+#EXTINF:-1 group-title="Películas | Terror",Películas de terror
+
+#EXTINF:-1 group-title="Películas | Comedia",Películas de comedia
+
+#EXTINF:-1 group-title="Películas | Drama",Películas de drama
+
+#EXTINF:-1 group-title="Películas | Ciencia ficción",Ciencia ficción
+
+#EXTINF:-1 group-title="Películas | Animación",Películas animadas
+
+# Series
+#EXTINF:-1 group-title="Series | Médicas",Series médicas
+
+#EXTINF:-1 group-title="Series | Comedia",Series de comedia
+
+#EXTINF:-1 group-title="Series | Acción",Series de acción
+
+#EXTINF:-1 group-title="Series | Drama",Series de drama
+
+#EXTINF:-1 group-title="Series | Suspenso",Series de suspenso
+
+#EXTINF:-1 group-title="Series | Novelas",Telenovelas
+
+#EXTINF:-1 group-title="Series | Novelas",Sin senos sí hay paraíso - T4E42
+https://share.deepstorage.dev/433260d9e190da6a6e419479109fcd41/Sin%20senos%20s%C3%AD%20hay%20para%C3%ADso%20T4E42
+
+
